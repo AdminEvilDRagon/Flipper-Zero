@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Zoom_out
+type: parsed
+protocol: NEC
+address: 31 00 00 00
+command: 8D 00 00 00
